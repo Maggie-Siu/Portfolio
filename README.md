@@ -5,7 +5,7 @@
 ### Project Overview:
 This is a problem set I completed using Python for my legal studies Data, Prediction, and Law class. It examines San Francisco's crime patterns using tables, graphs, and interactive maps. Libraries like numpy, pandas, folium, branca, and matplotlib have been used.
 
-![](https://github.com/Maggie-Siu/Portfolio/blob/main/Images/Heat%20Map.png)
+![](/Images/Heat%20Map.png)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
