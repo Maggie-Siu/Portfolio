@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+# Maggie Siu's Portfolio
 
-You can use the [editor on GitHub](https://github.com/Maggie-Siu/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Project 1: San Francisco Crime - Descriptive Statistics and Geographic Visualization
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Project Overview:
+* This is a problem set I completed using Python for my legal studies Data, Prediction, and Law class. It examines San Francisco's crime patterns using tables, graphs, and interactive maps.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
