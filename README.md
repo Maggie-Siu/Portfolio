@@ -1,9 +1,9 @@
 # Maggie Siu's Portfolio
 
-## Project 1: San Francisco Crime - Descriptive Statistics and Geographic Visualization
+## [Project 1: San Francisco Crime - Descriptive Statistics and Geographic Visualization](https://nbviewer.jupyter.org/github/Maggie-Siu/python-projects/blob/0948d9cda1fcb8c84235c4ee326e2d75cf732818/LEGALST%20123%20Problem%20Set%201.ipynb)
 
 ### Project Overview:
-* This is a problem set I completed using Python for my legal studies Data, Prediction, and Law class. It examines San Francisco's crime patterns using tables, graphs, and interactive maps.
+This is a problem set I completed using Python for my legal studies Data, Prediction, and Law class. It examines San Francisco's crime patterns using tables, graphs, and interactive maps. Libraries like numpy, pandas, folium, branca, and matplotlib have been used.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
